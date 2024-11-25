@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+.child {
+  border: 1px solid black;
+  border-radius: 12px;
+  
+}
